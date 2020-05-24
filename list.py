@@ -56,3 +56,4 @@ g
 >>> print(max(some))
 18
 print(sum(some)/len(some)) # 求平均值
+9.8
